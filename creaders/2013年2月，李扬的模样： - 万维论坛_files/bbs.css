@@ -1,0 +1,141 @@
+/* 默认值 */
+body {margin:0px; margin-left:7px;}
+
+td {color:#000000; font-size:12px; font-family:"宋体";}
+
+a {color:#000000; font-family:"宋体"; font-size:12px; text-decoration:none;}
+a:hover {color:#FF0000; text-decoration:underline;}
+a:active {color:#FF0000;}
+
+input {color:#000000; font-size:12px; font-family:"宋体";}
+
+textarea {color:#000000; font-size:14px; font-family:"宋体";}
+
+select {color:#000000; font-size:12px; font-family:"宋体";}
+
+
+
+
+/* 版主字体 */
+font.forum_master {color:#455151;}
+
+a.forum_master {color:#455151;}
+
+
+
+
+/* A 论坛菜单 */
+a.menu_1 {color:#B81515;}
+a.menu_1:hover {color:#B81515; text-decoration:none;}
+a.menu_1:active {color:#B81515;}
+
+a.menu_2 {color:#231E21;}
+a.menu_2:hover {color:#B81515; text-decoration:none;}
+a.menu_2:active {color:#B81515;}
+
+
+
+/* 表格字体 */
+a.table {color:#636767;}
+
+
+
+
+/* 论坛列表 */
+a.thread_title {color:blue; font-size:14px;}
+
+td.thread_title {color:#666666; font-size:14px; font-weight:bold;}
+
+.thread_red {color:#8A2A2A;}
+
+.thread_info {color:#124812;}
+
+.back_thread_info {color:#959D5B;}
+
+.size14 {font-size:14px;}
+
+
+
+
+/* 附件下载 */
+a.attach_download {color:#0000FF;}
+
+
+
+
+/* INPUT 表单 */
+input.text {border:1px solid #636767;}
+
+textarea.text {border:1px solid #636767; overflow:hidden;}
+
+input.text2 {border:1px solid #859D9D;}
+
+textarea.text2 {border:1px solid #859D9D;}
+
+table.text2 {border:1px solid #859D9D;}
+
+
+
+
+/* 帖子显示 */
+td.trd_subject {color:#B81515; font-size:24px;}
+
+td.trd_info {color:#464646;}
+
+a.trd_info {color:#464646;}
+
+.no_content {color:#464646; font-size:14px;}
+
+
+
+
+/* FONT 模块切换 */
+font.headfont1 {font-size:13px; color:#FFFFFF; font-weight:600; text-decoration:none;}
+
+font.headfont2 {font-size:13px; color:#990000; font-weight:600; text-decoration:none;}
+
+
+
+/* 皮肤颜色 */
+td.color_01 {background:#B7BFCA;}
+
+td.color_02 {background:#636767;}
+
+td.color_03 {background:#E3EDED;}
+
+tr.menu_color_1 {background:#E3EDED;}
+
+tr.menu_color_2 {background:#EEEEE8;}
+
+table.sub_table_head {background:#EFEFEF;border:1px solid #636767;}
+
+table.sub_table_body {border:1px solid #636767; border-top:0px;}
+
+td.link_color_1 {background:#F9FCF9;}
+
+td.link_color_2 {background:#EFF6F6;}
+
+table.dynamic_bar {border:1px solid #636767; background:#D2DFDF;}
+
+td.dynamic_bar_a {color:#7B9484;}
+
+table.thread_bgcolor {background:#EBEBEB;}
+
+table.back_thread_bgcolor {background:#F9FCF9;}
+
+table.readleader_border {border-left:1px solid #636767; border-right:1px solid #636767;}
+
+td.details_1 {background:#E3EDED; font-size:14px;}
+
+td.details_2 {background:#CED9D9;}
+
+td.details_ad {background:#C9DBDB;}
+
+table.details_other {background:#F4F7F7;}
+
+
+#trd_content{
+    width: 626px;
+    word-break: break-all;
+    word-wrap: break-word;
+}

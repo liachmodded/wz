@@ -1,0 +1,50 @@
+/*可以在这里添加你自己的css*/
+html {margin:0;padding:0;}
+body.view {margin:0;padding:0px 5px;}
+body, td {font:14px/22px SimSun,tahoma,verdana,helvetica;}
+body, p, div {word-wrap: break-word;}
+p {margin:1em 0;}
+table {border-collapse:collapse;}
+img {border:0;}
+noscript {display:none;}
+table.ke-zeroborder td {border:1px dotted #AAA;}
+img.ke-flash {
+	border:1px solid #AAA;
+	background-image:url(http://bbs.creaders.net/kindeditor-4.1.1-music/themes/common/flash.gif);
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:100px;
+	height:100px;
+}
+img.ke-rm {
+	border:1px solid #AAA;
+	background-image:url(http://bbs.creaders.net/kindeditor-4.1.1-music/themes/common/rm.gif);
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:100px;
+	height:100px;
+}
+img.ke-media {
+	border:1px solid #AAA;
+	background-image:url(http://bbs.creaders.net/kindeditor-4.1.1-music/themes/common/media.gif);
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:100px;
+	height:100px;
+}
+img.ke-anchor {
+	border:1px dashed #666;
+	width:16px;
+	height:16px;
+}
+.ke-script, .ke-noscript {
+	display:none;
+	font-size:0;
+	width:0;
+	height:0;
+}
+.ke-pagebreak {
+	border:1px dotted #AAA;
+	font-size:0;
+	height:2px;
+}

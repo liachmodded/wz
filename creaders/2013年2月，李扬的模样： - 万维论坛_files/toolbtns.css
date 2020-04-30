@@ -1,0 +1,29 @@
+﻿/*自定义Button,Dialog*/
+
+.edui-default  .edui-for-flashupload .edui-icon {
+    background-position: -950px top;
+}
+
+.edui-default .edui-for-flashupload .edui-dialog-content {
+    width: 450px;
+    height: 180px;
+}
+
+.edui-default  .edui-for-mediaupload .edui-icon {
+    background-position: -950px -20px;
+}
+
+.edui-default .edui-for-mediaupload .edui-dialog-content {
+    width: 450px;
+    height: 180px;
+}
+
+.edui-default  .edui-for-musicupload .edui-icon {
+    background-position: -18px -40px;
+}
+
+.edui-default .edui-for-musicupload .edui-dialog-content {
+    width: 450px;
+    height: 180px;
+}
+
